@@ -131,5 +131,14 @@ git push origin feature-name
 
 Open a pull request on the original repository.
 
-# MILESTONE 1
-
+## MILESTONE 1
+---
+* build a full-fledged E-Commerce Application from scratch using the MERN stack
+* This project is designed to provide hands-on experience with real-world development concepts and tools.
+---
+### Key features of the project
+---
+* This project will be built using MERN Stack.
+* REST API Creation: Through the mentor-guided project, you will learn to build scalable APIs.
+* Authentication: You will get to learn to implement secure login and registration functionalities. -Database Schema Design: You will get to explore how to create structured data models using MongoDB.
+* Backend Development: As a part of the project, you will learn to set up robust server-side logic with Node.js and Express.
